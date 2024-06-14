@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shamwayterip.github.io/sitemap
+Sitemap: https://shamwayterip.github.io/app/sitemap
+Sitemap: https://shamwayterip.github.io/assets/sitemap
+Sitemap: https://shamwayterip.github.io/css/sitemap
+Sitemap: https://shamwayterip.github.io/includes/sitemap
+Sitemap: https://shamwayterip.github.io/item/sitemap
+Sitemap: https://shamwayterip.github.io/src/sitemap
